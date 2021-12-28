@@ -2,9 +2,13 @@ h1 {
     color: red;
     background-color: blue;
     text-align: center;
+    font-size: 48px;
+    font-family: Helvetica, sans-serif;
 }
 
 #list {
-    color: salmon;
-    background-color: lightgreen;
+    color: seashell;
+    background-color: salmon;
+    font-family: Arial, sans-serif;
+    font-size: 60px;
 }
