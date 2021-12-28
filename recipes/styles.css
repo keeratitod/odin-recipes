@@ -1,0 +1,21 @@
+h1 {
+    background-color: slateblue;
+    color: snow;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: darkorchid;
+    background-color: turquoise;
+}
+
+p {
+    font-size: 24px;
+    color: deeppink;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    font-family: Tahoma, sans-serif;
+}
